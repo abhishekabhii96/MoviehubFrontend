@@ -1,0 +1,10 @@
+.navbar-brand {
+  font-family: "Caveat", cursive;
+}
+.navbar-menu{
+  list-style-type: none;
+  color: blueviolet;
+}
+#ftitle , #logtitle{
+  font-family: "Caveat", cursive;
+}
